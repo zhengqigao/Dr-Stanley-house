@@ -6,7 +6,7 @@ According to the course requirements, we implement the game (with full plots, mu
 
 By the name of my life, I swear that the code (the 'main' file in /Src/exe_files/) can run successfully, as the folowing demo shows. The last but not the least, I am sorry to say that all the files under this repo are written in Chinese:-)
 
-![](demo.gif)
+![](out.gif)
 
 ## 1. Insturctions
 
