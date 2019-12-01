@@ -1,11 +1,10 @@
-# Dr'Stanley House
+# Dr' Stanley House
 
 This is the final team project for Graduate Course Introduction to Functional Programming-From C/C++ to Haskell at Fudan Univerisity. Dr's Stanley House is a famous puzzle video game [[see here]](https://jayisgames.com/review/dr-stanleys-house.php).
-
 According to the course requirements, we implement the game (with full plots, music, dialogues) via functional programming language [Haskell](https://www.haskell.org/).
 
 
-The last but not the least, I am sorry to say that all the files under this repo are written in Chinese:-)
+By the name of my life, I swear that the code (the 'main' file in /Src/exe_files/) can run successfully. The last but not the least, I am sorry to say that all the files under this repo are written in Chinese:-)
 
 ## 1. Insturctions
 
