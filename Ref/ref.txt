@@ -1,0 +1,4 @@
+[1] sdl2[OL]. http://hackage.haskell.org/package/sdl2.
+[2] Haskell SDL2 Examples[OL]. https://github.com/palf/haskell-sdl2-examples.
+[3] sdl2-ttf[OL]. https://github.com/haskell-game/sdl2-ttf.
+[4] sdl2-mix[OL]. https://github.com/tempname11/sdl2-mixer.
