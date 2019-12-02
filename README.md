@@ -4,7 +4,7 @@ This is the final team project for Graduate Course Introduction to Functional Pr
 According to the course requirements, we implement the game (with full plots, music, dialogues) via functional programming language [Haskell](https://www.haskell.org/).
 
 
-By the name of my life, I swear that the code (the 'main' file in /Src/exe_files/) can run successfully, as the folowing demo shows. The last but not the least, I am sorry to say that all the files under this repo are written in Chinese:-)
+By the name of my life, I swear that the code (the 'main' file in /Src/exe_files/) can run successfully, as the folowing demo shows. The demo may fail to load occasionally, in which case you can directly click out.gif in the repo. The last but not the least, I am sorry to say that all the files under this repo are written in Chinese:-)
 
 ![](out.gif)
 
