@@ -12,7 +12,7 @@ By the name of my life, I swear that the code (the 'main' file in /Src/exe_files
 
 Several Haskell libraries are required, inlcuding: SDL2, SDL2-tff, SDL2-mixer. For more details, you can refer to the following References Section or the report under the 'Note' directory.
 
-## 2. Refernces
+## 2. References
 
 + sdl2[OL]. http://hackage.haskell.org/package/sdl2.
 + Haskell SDL2 Examples[OL]. https://github.com/palf/haskell-sdl2-examples.
