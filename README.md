@@ -10,7 +10,7 @@ By the name of my life, I swear that the code (the 'main' file in /Src/exe_files
 
 ## 1. Insturctions
 
-Several Haskell libraries are required, inlcuding: SDL2, SDL2-tff, SDL2-mixer. For more details, you can refer to the following Refernce Section or the report under the 'Note' directory.
+Several Haskell libraries are required, inlcuding: SDL2, SDL2-tff, SDL2-mixer. For more details, you can refer to the following References Section or the report under the 'Note' directory.
 
 ## 2. Refernces
 
@@ -21,4 +21,4 @@ Several Haskell libraries are required, inlcuding: SDL2, SDL2-tff, SDL2-mixer. F
 
 ## 2. Supports
 
-If you have any questions related to this tool, please feel free to contact with me: <14307130100@fudan.edu.cn> or <zhengqigao@163.com>
+If you have any questions related to this tool, please feel free to contact with me: <18212020014@fudan.edu.cn> or <zhengqigao@163.com>
